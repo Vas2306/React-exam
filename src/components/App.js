@@ -10,7 +10,9 @@ export const App = () => {
         color: '#010101'
       }}
     >
-    Hello, font size, display
+    height: '100vh',
+        display: 'flex',
+        justifyContent: 'center',
     </div>
   );
 };
