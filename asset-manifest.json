@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-exam/static/css/main.7acaea2f.css",
-    "main.js": "/React-exam/static/js/main.e9bfc77b.js",
+    "main.js": "/React-exam/static/js/main.e654bc20.js",
     "index.html": "/React-exam/index.html",
     "main.7acaea2f.css.map": "/React-exam/static/css/main.7acaea2f.css.map",
-    "main.e9bfc77b.js.map": "/React-exam/static/js/main.e9bfc77b.js.map"
+    "main.e654bc20.js.map": "/React-exam/static/js/main.e654bc20.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.e9bfc77b.js"
+    "static/js/main.e654bc20.js"
   ]
 }
