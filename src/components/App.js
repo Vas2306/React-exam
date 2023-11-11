@@ -1,18 +1,12 @@
-export const App = () => {
+import EventBoard from "./EventBoard/EventBoard";
+import PageTitle from "./PageTitle/PageTitle";
+import upcomingEvents from '../upcoming-events.json';
+
+export default function App() {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-    height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
+    <div>
+      <PageTitle title='24th Core Worlds Coalition Conference' />
+      <EventBoard events={upcomingEvents}/>
     </div>
   );
-};
+}
