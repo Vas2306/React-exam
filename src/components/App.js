@@ -1,12 +1,14 @@
-import EventBoard from "./EventBoard/EventBoard";
-import PageTitle from "./PageTitle/PageTitle";
+import EventBoard from './EventBoard/EventBoard';
+import PageTitle from './PageTitle/PageTitle';
 import upcomingEvents from '../upcoming-events.json';
-
+import SectionBusiness from "./SectionBusiness/SectionBusiness";
 export default function App() {
   return (
     <div>
-      <PageTitle title='24th Core Worlds Coalition Conference' />
-      <EventBoard events={upcomingEvents}/>
+      <SectionBusiness/>
+      
+      <PageTitle title="24th Core Worlds Coalition Conference" />
+      <EventBoard events={upcomingEvents} />
     </div>
   );
 }

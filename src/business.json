@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Business Idea Planning",
+    "idea": "We present you a proposal and discuss niffty-gritty like",
+    "color": "#7b2acb",
+    "type": "business"
+  },
+  {
+    "name": "Financial Planning System",
+    "idea": "Protocols apart from aengage models, pricing billing",
+    "color": "#4756d8",
+    "type": "financial"
+  },
+  {
+    "name": "Development Website and App",
+    "idea": "Communication protocols apart from engagement models",
+    "color": "#20c71d",
+    "type": "development"
+  },
+  {
+    "name": "Market Analysis Project",
+    "idea": "Protocols apart from aengage models, pricing billing",
+    "color": "#d4e637",
+    "type": "market"
+  }
+]

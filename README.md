@@ -111,3 +111,28 @@ GitHub.
 3. Если все шаги прошли успешно, собранная продакшн версия файлов проекта
    отправляется в ветку `gh-pages`. В противном случае, в логе выполнения
    скрипта будет указано в чем проблема.
+
+<li class="help__item">
+              <div class="help-img__container help-img__container-bis">
+                <span class="help-img"></span>
+              </div>
+              <div>
+                <h3 class="title"></h3>
+                <p class="text"></p>
+              </div>
+            </li>
+
+TbBusinessplan,LiaBusinessTimeSolid,TiBusinessCard, MdBusiness
+
+<section class="help">
+        <div class="container">
+          <h2 class="help__title"></h2>
+          <ul class="help__list"></ul></div></section>
+#7b2acb
+#eadafa
+#4756d8
+#daddfa
+#20c71d
+#cbf9cb;
+#d4e637
+#f3f8c7
