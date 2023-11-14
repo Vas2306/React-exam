@@ -19,6 +19,14 @@ margin: 0;
   margin-top: 20px;
   margin-bottom: 30px;
   color: rgb(78, 72, 60);
+  svg {
+    display: inline-block;
+    vertical-align:bottom;
+    margin-right: 8px;
+     width: 38px;
+    height: 38px;
+  color:rgb(115, 143, 109);
+  }
 `;
 export const Text = styled.p`
  font-size: 20px;
@@ -35,6 +43,9 @@ export const Button = styled.button`
   border-radius: 3px;
   cursor: pointer;
   box-shadow: 0 10px 10px -5px rgba(0, 0, 0, 0.3);
+  &:hover,&:focus{
+  background-color:rgb(200, 186, 158);  
+  }
 `;
 export const Image = styled.img`
   border-radius: 2px;
