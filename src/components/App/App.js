@@ -9,7 +9,7 @@ export default function App() {
     <div>
       <SectionBusiness />
       <Container>
-        <PageTitle title="24th Core Worlds Coalition Conference" />
+        <PageTitle title="24th Core Worlds Coalition Conference (CSS-module)" />
         <EventBoard events={upcomingEvents} />
       </Container>
       <CustomerSupport/>

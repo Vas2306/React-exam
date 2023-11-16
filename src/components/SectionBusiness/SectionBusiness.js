@@ -7,7 +7,7 @@ export default function SectionBusiness() {
      return (
     <section className={css.help}>
       <div className={css.container}>
-        <PageTitleBusiness title="How can we help your Business ?" />
+        <PageTitleBusiness title="How can we help your Business ? (CSS-module)" />
         <ListBusiness cards={cardsBusiness} />
       </div>
     </section>
