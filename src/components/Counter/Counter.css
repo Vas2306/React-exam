@@ -1,0 +1,42 @@
+.Counter__container{
+    display: flex;
+   justify-content: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   background-color: rgb(202, 232, 209);
+}
+.Counter {
+  width: 400px;
+  padding: 10px;
+   text-align: center;
+  border: 5px solid rgb(20, 95, 82);
+ background-color: rgb(230, 252, 247);
+}
+
+.Counter__controls > button {
+  border: none;
+  padding: 10px 15px;
+  background-color: teal;
+  color: #fff;
+  font-weight: 500;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-family: inherit;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 1px 2px 2px 0 rgb(0 0 0 / 0.5);
+  transition: box-shadow 250ms linear;
+}
+
+.Counter__controls > button:active {
+  box-shadow: 2px 5px 2px 0 rgb(0 0 0 / 0.5);
+}
+
+.Counter__value {
+  margin-right: 15px;
+  margin-left: 15px;
+  font-size: 64px;
+  font-family: monospace;
+  text-align: center;
+  color: rgb(12, 62, 57);
+}
