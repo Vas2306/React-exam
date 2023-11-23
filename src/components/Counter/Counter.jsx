@@ -22,6 +22,7 @@ class Counter extends React.Component {
     return (
       <div className="Counter__container">
         <div className="Counter">
+          <h2>(Counter)</h2>
           <span className="Counter__value">{this.state.value}</span>
           <Controls
             onIncrement={this.handleIncrement}

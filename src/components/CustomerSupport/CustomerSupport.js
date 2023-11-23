@@ -16,7 +16,7 @@ export function CustomerSupport() {
         <Context>
           <Title>
             <IoTimer />
-            24/7 Customer Support (Emotion)</Title>
+            24/7 Customer Support (Emotion, CustomerSupport)</Title>
           <Text>
             Our team is here to give you personalized support within the hour
             available 24/7. In accordance with our commitment to providing

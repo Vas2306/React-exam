@@ -1,0 +1,32 @@
+.dropdown {
+  position: relative;
+  margin: 0 auto;
+  width: 400px;
+  padding: 20px;
+  background-color: #c5eded;
+  border: 1px solid rgb(32, 102, 96);
+}
+
+.dropdown__menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background-color: teal;
+  color: white;
+}
+.dropdown__toggle {
+  padding: 15px;
+  color: white;
+  background-color: teal;
+  border: none;
+  border-radius: 2px;
+  box-shadow: 5px 5px 8px rgba(0, 128, 128, 0.671);
+  cursor: pointer;
+  transition: 500ms linear background-color;
+}
+.dropdown__toggle:hover {
+  background-color: #3ac6c6;
+}
