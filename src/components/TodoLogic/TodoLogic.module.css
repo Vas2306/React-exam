@@ -1,0 +1,14 @@
+.container {
+  width: 440px;
+  padding: 20px;
+  margin: 30px auto;
+  background-color: #e2e2e2;
+}
+.title {
+  margin-bottom: 4px;
+  color: #989898;
+}
+.description {
+  margin-bottom: 4px;
+  color: #5a5a5a;
+}

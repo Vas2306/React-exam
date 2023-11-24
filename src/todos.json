@@ -1,0 +1,5 @@
+[
+  { "id": "id-1", "text": "Составить список покупок", "completed": true },
+  { "id": "id-2", "text": "Выбрать варианты отелей", "completed": false },
+  { "id": "id-3", "text": "Составить смету затрат", "completed": false }
+]
